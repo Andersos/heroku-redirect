@@ -1,0 +1,11 @@
+{
+  "name": "Heroku Redirect",
+  "repository": "https://github.com/Andersos/heroku-redirect",
+  "keywords": ["node", "redirect"],
+  "env": {
+    "NEW_URL": {
+      "description": "Redirect all requests to this URL.",
+      "value": "http://example.com"
+    }
+  }
+}
